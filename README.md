@@ -1,3 +1,25 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
  void merge(vector<pair<int,int>>&v,vector<int>&ans,int left,int mid,int right){
             int i=left,j=mid+1,k=0;
             vector<pair<int,int>>temp(right-left+1);
